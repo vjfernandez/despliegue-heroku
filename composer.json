@@ -1,0 +1,15 @@
+{
+    "name": "victor/despliegue-heroku",
+    "description": "Un ejemplo para probar git, github y heroku",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.22"
+    },
+    "license": "cc:by",
+    "authors": [
+        {
+            "name": "vjfernandez",
+            "email": "victor.fernandezgil@educa.madrid.org"
+        }
+    ]
+}
