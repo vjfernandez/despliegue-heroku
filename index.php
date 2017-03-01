@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-Hola Mundo!
+<p>Hola, soy Juan</p>
 </body>
 </html>
 <?php
