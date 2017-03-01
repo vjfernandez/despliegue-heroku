@@ -13,4 +13,5 @@ Hola Mundo!
    $log->pushHandler(new Monolog\Handler\StreamHandler('hello.log', Monolog\Logger::DEBUG));
 
    $log->addInfo('Acceso a index.php');
+   echo "Hola, soy Álvaro Ruiz y esto es una prueba.";
 ?>
