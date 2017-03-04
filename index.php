@@ -4,7 +4,8 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-Hola Mundo!
+    Git y github. Despliegue en heroku. <br>
+    <b>"un saludo"</b>
 </body>
 </html>
 <?php
