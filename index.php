@@ -11,6 +11,6 @@ Hola Mundo!
    include("vendor/autoload.php");
    $log = new Monolog\Logger('name');
    $log->pushHandler(new Monolog\Handler\StreamHandler('hello.log', Monolog\Logger::DEBUG));
-
+   echo 'Hola, soy Raul Hernandez Garcia';
    $log->addInfo('Acceso a index.php');
 ?>
